@@ -14,6 +14,12 @@ opencv의 putText 함수는 utf-8를 지원하지 않기 때문에 pillow를 이
 
 opencv의 rectangle 함수는 alpha를 지원하지 않기 때문에 blending이라는 조금 번거로운 방법을 통하여 해결하였다. 이미지 두개를 생성하여 weighted를 조절하여 합쳤다.
 
+### 3. Result
+
+<img src="./result.jpg" />
+
+
+
 ### Setting
 
 ```shell
